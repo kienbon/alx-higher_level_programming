@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 def fizzbuzz():
     for count in range(1, 101):
